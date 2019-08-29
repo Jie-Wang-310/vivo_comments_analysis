@@ -1,0 +1,2 @@
+# vivo_comments_analysis
+vivo手机京东平台上评论信息的情感分析
